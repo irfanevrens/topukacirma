@@ -10,6 +10,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("Hello World!!!");
+	puts("Merhaba Dünya!!!");
 	return EXIT_SUCCESS;
 }
